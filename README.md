@@ -1,6 +1,6 @@
 # crypto_1_plus_2
 HW in order to implement the RC4 with ksa and prga and show graph
-
+![alt text](https://github.com/louksky/crypto_1_plus_2/blob/master/graph.png)
 the output ::
 
 1  391
